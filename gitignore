@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Colab / Jupyter
+.ipynb_checkpoints/
+
+# Credentials
+token.json
+credentials.json
+
+# macOS
+.DS_Store
+
+# Env
+.env
